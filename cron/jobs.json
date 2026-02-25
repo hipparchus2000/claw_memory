@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "jobs": [
+   {
+      "id": "daily-thinking",
+      "agentId": "main",
+      "name": "daily-thinking",
+      "enabled": true,
+      "createdAtMs": 1771770136430,
+      "updatedAtMs": 1771992068655,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 4 * * *"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run daily thinking session at 4am UTC. Use the thinking system to reflect on AI assistant evolution from reactive tools to proactive partners (including AI-AI collaboration). Generate insights, connections, practical applications, ethical considerations, and random new ideas. Post summary to #clawing channel.",
+        "model": "deepseek/deepseek-chat"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "slack",
+        "to": "#xxxxx",
+        "bestEffort": true
+      },
+      "state": {
+        "nextRunAtMs": 1772078400000,
+        "lastRunAtMs": 1771992000037,
+        "lastStatus": "ok",
+        "lastDurationMs": 68618,
+        "consecutiveErrors": 0
+      }
+    },
+    {
+      "id": "memory-compression-daily",
+      "agentId": "main",
+      "name": "memory-compression",
+      "enabled": true,
+      "createdAtMs": 1771976000000,
+      "updatedAtMs": 1771993959786,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 4 * * *",
+        "tz": "UTC"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Run daily memory compression at 4:30am UTC (after thinking session). Execute memory_compressor.py to compress yesterday's files, update access patterns, and generate compression report. Principle: 'Forgetting noise enables remembering signal'.",
+        "model": "deepseek/deepseek-chat"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "slack",
+        "to": "#xxxxxxx",
+        "bestEffort": true
+      },
+      "state": {
+        "nextRunAtMs": 1772080200000,
+        "lastRunAtMs": 1771993800024,
+        "lastStatus": "ok",
+        "lastDurationMs": 159762,
+        "consecutiveErrors": 0
+      }
+    }
+  ]
+}
