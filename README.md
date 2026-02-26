@@ -1,5 +1,8 @@
 # Claw Memory System
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Stripe-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buy.stripe.com/cNi5kDb0Q5Wp663gdgbjW00)
+
+
 **SQLite-first AI memory architecture with 0-5 importance-based compression, daily 4am thinking sessions on AI evolution, and 4:30am compression cron jobs implementing "forgetting noise enables remembering signal" principle.**
 
 ## Core Architecture
