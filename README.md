@@ -1,5 +1,7 @@
 # Claw Memory System
 
+You really want to read: feedback_loop_system.md  this closes the loop from experience to learning, to thinking etc. This is making the system emergent.
+
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Stripe-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buy.stripe.com/cNi5kDb0Q5Wp663gdgbjW00)
 
 
