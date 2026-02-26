@@ -1,0 +1,1 @@
+So this isn't just memory, it's reflection sessions. The memory .MD files are replaced with sqlite database. The clawbot compresses this daily, reflects, thinks on what "it wants" to do. Seeing some emergent behaviour from this. Anyway, enjoy. Let me know if you like it.
