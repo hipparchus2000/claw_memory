@@ -1,5 +1,7 @@
 # Feedback Loop System: Thinking → Research → Action → Memory
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Stripe-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buy.stripe.com/cNi5kDb0Q5Wp663gdgbjW00)
+
 ## Overview
 Complete autonomous evolution cycle for AI assistant development. Closed loop system where each component informs the next.
 
