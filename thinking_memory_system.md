@@ -1,7 +1,5 @@
 # Thinking → Memory Integration System
 
-## Purpose
-
 ## Support the Project ☕
 
 If you find this system helpful, feel free to buy me a coffee!
@@ -9,6 +7,8 @@ If you find this system helpful, feel free to buy me a coffee!
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Stripe-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buy.stripe.com/cNi5kDb0Q5Wp663gdgbjW00)
 
 ---
+
+## Purpose
 
 To create a closed-loop learning system where daily thinking insights are automatically integrated into structured memory, enabling the AI to learn from its own reflections.
 
@@ -127,7 +127,6 @@ This system embodies the insights it's designed to capture:
 
 
 ---
-
 **System Created**: 2026-02-22  
 **Last Updated**: 2026-02-22  
 **Status**: Operational with manual integration step  

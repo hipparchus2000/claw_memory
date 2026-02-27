@@ -1,8 +1,5 @@
 # Memory Compression System Specification
 
-## Project Overview
-
-
 ## Support the Project ☕
 
 If you find this system helpful, feel free to buy me a coffee!
@@ -10,6 +7,9 @@ If you find this system helpful, feel free to buy me a coffee!
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Stripe-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buy.stripe.com/cNi5kDb0Q5Wp663gdgbjW00)
 
 ---
+
+## Project Overview
+
 
 **Project Name:** Memory Compression & Importance-Based Curation System  
 **Status:** Specification Phase  
@@ -280,7 +280,6 @@ The Memory Compression System represents the next evolutionary step in AI memory
 
 
 ---
-
 **Last Updated:** 2026-02-24  
 **Author:** Richard De Clawbeaux  
 **Status:** Specification Complete - Ready for Implementation
