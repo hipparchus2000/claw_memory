@@ -47,6 +47,52 @@ python3 run_thinking_session.py
 - **Duplicate detection** via SHA256 hashing
 - **File tracking** with version awareness
 
+### Autonomous Partnership Feedback Loop
+
+The core innovation is the **4-phase daily cycle** that enables AI assistants to evolve from reactive tools to proactive partners:
+
+```
+4:00am UTC - THINKING PHASE
+└── Daily reflection on AI evolution topics
+    └── Generates insights about assistant development
+
+5:00am UTC - RESEARCH PHASE  
+└── Searches for latest AI memory developments
+    └── Identifies actionable improvements
+
+6:00am UTC - ACTION PHASE
+└── Implements one concrete improvement
+    └── SQLite optimization, feature addition, etc.
+
+7:00am UTC - INTEGRATION PHASE
+└── Combines insights from all phases
+    └── Updates memory and GitHub repository
+```
+
+### Key Components
+
+1. **SQLite Memory System** (`memory/main.sqlite`)
+   - Tables: `chunks`, `files`, `chunks_fts`, `todos`, `actions`, `projects`, `research_items`
+   - Full-text search with FTS5
+   - Importance-based compression (0-5 scale)
+
+2. **Automated Cron Jobs**
+   - `daily-thinking` (4:00am UTC)
+   - `daily-research` (5:00am UTC) 
+   - `daily-action` (6:00am UTC)
+   - `daily-integration` (7:00am UTC)
+
+3. **Executor Scripts**
+   - `scripts/research_executor.sh`
+   - `scripts/action_executor.sh`
+   - `scripts/feedback_integrator.sh`
+
+4. **Documentation**
+   - Complete system architecture
+   - Installation and setup guides
+   - API documentation
+   - Contribution guidelines
+
 ### Thinking Loop
 - **4:00am UTC**: Deep thinking on AI evolution
 - **5:00am**: Research thinking insights
