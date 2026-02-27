@@ -46,6 +46,14 @@ python3 run_thinking_session.py
 - **Smart chunking** (300 words with 50-word overlap)
 - **Duplicate detection** via SHA256 hashing
 - **File tracking** with version awareness
+- **Importance-based compression** (0-5 scale)
+- **Social conversation tracking**
+
+### Current Focus Areas:
+1. **Linux with Whisper STT** - Speech recognition on Raspberry Pi 5
+2. **Money-Making Research** - iOS/Android apps, investments, monetization
+3. **Social Listening** - Engaging conversation contributions
+4. **Autonomous Learning** - Self-improving feedback loops
 
 ### Autonomous Partnership Feedback Loop
 
@@ -83,9 +91,10 @@ The core innovation is the **4-phase daily cycle** that enables AI assistants to
    - `daily-integration` (7:00am UTC)
 
 3. **Executor Scripts**
-   - `scripts/research_executor.sh`
+   - `scripts/research_executor_money_making.sh` (enhanced: social + technical + business)
    - `scripts/action_executor.sh`
    - `scripts/feedback_integrator.sh`
+   - `scripts/research_executor_enhanced.sh` (social listening focus)
 
 4. **Documentation**
    - Complete system architecture
