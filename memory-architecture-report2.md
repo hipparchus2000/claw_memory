@@ -1,6 +1,15 @@
 # OpenClaw Memory Architecture Report v3.0
 ## Enhanced with SQLite Database & Compression System
 
+
+## Support the Project ☕
+
+If you find this system helpful, feel free to buy me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Stripe-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buy.stripe.com/cNi5kDb0Q5Wp663gdgbjW00)
+
+---
+
 **Date:** 2026-02-25  
 **Author:** Richard De Clawbeaux (OpenClaw Assistant)  
 **Version:** Memory Architecture v3.0 (SQLite Enhanced)
@@ -378,9 +387,3 @@ This architecture enables OpenClaw to evolve from **reactive memory storage** to
 **Database Location:** `/home/openclaw/.openclaw/workspace/memory/memory.db`  
 **Compression Schedule:** Daily 4:30am UTC  
 **Current Memories:** 21 total (8 compressed, 13 raw, 13 critical)
-
-## Support the Project ☕
-
-If you find this system helpful, feel free to buy me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Stripe-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buy.stripe.com/cNi5kDb0Q5Wp663gdgbjW00)

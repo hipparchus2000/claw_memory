@@ -2,6 +2,15 @@
 
 ## Project Overview
 
+
+## Support the Project ☕
+
+If you find this system helpful, feel free to buy me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Stripe-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buy.stripe.com/cNi5kDb0Q5Wp663gdgbjW00)
+
+---
+
 **Project Name:** Memory Compression & Importance-Based Curation System  
 **Status:** Specification Phase  
 **Priority:** High  
@@ -269,12 +278,6 @@ workspace/
 
 The Memory Compression System represents the next evolutionary step in AI memory management - moving from passive storage to intelligent curation. By implementing importance-based compression, we enable faster wakeups, better context awareness, and more efficient memory usage, all while preserving the critical insight that "forgetting noise enables remembering signal."
 
-
-## Support the Project ☕
-
-If you find this system helpful, feel free to buy me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Stripe-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buy.stripe.com/cNi5kDb0Q5Wp663gdgbjW00)
 
 ---
 

@@ -1,6 +1,15 @@
 # SQLite Memory Database Schema
 
 ## Database Location
+
+## Support the Project ☕
+
+If you find this system helpful, feel free to buy me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Stripe-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buy.stripe.com/cNi5kDb0Q5Wp663gdgbjW00)
+
+---
+
 - **Path**: `/home/openclaw/.openclaw/memory/main.sqlite`
 - **Size**: ~68KB (as of 2026-02-27)
 - **Purpose**: Indexed memory storage with full-text search
@@ -262,12 +271,6 @@ cp /home/openclaw/.openclaw/memory/main.sqlite \
    /home/openclaw/.openclaw/memory/backups/main_$(date +%Y%m%d).sqlite
 ```
 
-
-## Support the Project ☕
-
-If you find this system helpful, feel free to buy me a coffee!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Stripe-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buy.stripe.com/cNi5kDb0Q5Wp663gdgbjW00)
 
 ---
 
