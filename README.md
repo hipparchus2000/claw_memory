@@ -108,6 +108,13 @@ Use environment variables for sensitive configuration.
 4. Test thoroughly
 5. Submit pull request
 
+
+## Support the Project ☕
+
+If you find this system helpful, feel free to buy me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Stripe-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buy.stripe.com/cNi5kDb0Q5Wp663gdgbjW00)
+
 ## License
 
 MIT License - See [LICENSE](LICENSE) file for details.

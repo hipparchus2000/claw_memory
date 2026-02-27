@@ -191,6 +191,13 @@ The new partitioned memory architecture represents a **fundamental shift** from 
 
 This architecture enables OpenClaw to maintain **multiple relationships** while preserving **user privacy** and providing **appropriate context** for each interaction.
 
+
+## Support the Project ☕
+
+If you find this system helpful, feel free to buy me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Stripe-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buy.stripe.com/cNi5kDb0Q5Wp663gdgbjW00)
+
 ---
 
 **Report Generated:** 2026-02-22 01:58 UTC  

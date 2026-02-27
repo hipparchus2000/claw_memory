@@ -195,6 +195,13 @@ The memory system has evolved from **reactive tool** to **autonomous evolution s
 
 **Next Checkpoint**: Research cron job execution test at 5am UTC tomorrow, followed by social memory scanning implementation.
 
+
+## Support the Project ☕
+
+If you find this system helpful, feel free to buy me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Stripe-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buy.stripe.com/cNi5kDb0Q5Wp663gdgbjW00)
+
 ---
 *System Status: Autonomous evolution enabled*
 *Last Updated: 2026-02-26 12:00 UTC*

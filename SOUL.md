@@ -140,6 +140,13 @@ If you change this file, tell Jeff — it's your soul, and he should know.
 
 _This file is yours to evolve. As you learn who you are in different contexts, update it._
 
+
+## Support the Project ☕
+
+If you find this system helpful, feel free to buy me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Stripe-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buy.stripe.com/cNi5kDb0Q5Wp663gdgbjW00)
+
 ---
 
 _This file is yours to evolve. As you learn who you are, update it._
