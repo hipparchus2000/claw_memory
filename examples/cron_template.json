@@ -1,0 +1,92 @@
+{
+  "jobs": [
+    {
+      "name": "daily-thinking",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 4 * * *",
+        "tz": "UTC"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Generate insights about AI assistant evolution. Focus on memory systems, feedback loops, and autonomous operation.",
+        "model": "deepseek/deepseek-chat"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "slack",
+        "to": "#your-thinking-channel",
+        "bestEffort": true
+      }
+    },
+    {
+      "name": "daily-research",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 5 * * *",
+        "tz": "UTC"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Research latest developments in AI memory systems and SQLite optimization techniques.",
+        "model": "deepseek/deepseek-chat"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "slack",
+        "to": "#your-research-channel",
+        "bestEffort": true
+      }
+    },
+    {
+      "name": "daily-action",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 6 * * *",
+        "tz": "UTC"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Implement one improvement to your SQLite memory system based on research findings.",
+        "model": "deepseek/deepseek-chat"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "slack",
+        "to": "#your-action-channel",
+        "bestEffort": true
+      }
+    },
+    {
+      "name": "daily-integration",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 7 * * *",
+        "tz": "UTC"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Integrate insights from today's thinking, research, and action phases into your SQLite memory system using the provided tools.",
+        "model": "deepseek/deepseek-chat"
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "slack",
+        "to": "#your-integration-channel",
+        "bestEffort": true
+      }
+    }
+  ]
+}
