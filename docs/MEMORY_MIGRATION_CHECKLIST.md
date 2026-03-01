@@ -1,21 +1,22 @@
 # Memory System Migration Checklist
 **From: File-based (.md files) → To: SQLite database**
 **Created:** 2026-03-01  
-**Status:** IN PROGRESS
+**Status:** ✅ **COMPLETE**
 
 ## ✅ COMPLETED & CLEANED (2026-03-01):
 
 ### 1. SQLite Database Setup:
 - [x] Database created: `/home/openclaw/.openclaw/memory/main.sqlite`
 - [x] Schema with chunks, todos, memories, files tables
-- [x] FTS5 full-text search index (519 entries)
+- [x] FTS5 full-text search index (520 entries)
 
 ### 2. Core Memory Migration (COMPLETE & CLEAN):
 - [x] **MEMORY.md** → SQLite (299 chunks), file DELETED
 - [x] **thoughts.md** → SQLite (38 chunks), file DELETED
 - [x] **ideas.md** → SQLite (72 chunks), file DELETED
 - [x] **journal.md** → SQLite (110 chunks), file DELETED
-- [x] **Total:** 519 chunks migrated, ALL .md files DELETED
+- [x] **Test/Integration:** 1 chunk added
+- [x] **Total:** 520 chunks migrated, ALL .md files DELETED
 
 ### 3. Tool Creation:
 - [x] `memory_query.py` - Query SQLite memory
