@@ -25,7 +25,7 @@ OpenClaw now implements a **partitioned memory architecture** that separates use
 ```
 workspace/
 ├── users/                    # User-specific memory partitions
-│   ├── jeff/                # Jeff Davies (primary user)
+│   ├── jeff/                # [USER_NAME] (primary user)
 │   │   ├── identity/        # USER.md, personal details
 │   │   ├── memory/          # MEMORY.md, daily logs
 │   │   ├── projects/        # webbOS, ClawChat, etc.
@@ -45,7 +45,7 @@ workspace/
 
 ## Context-Aware Loading Protocol
 
-### For Jeff (U0ACWLADFEK):
+### For Jeff ([USER_ID]):
 1. **Read `SOUL.md`** — Assistant identity (Richard De Clawbeaux)
 2. **Read `users/jeff/identity/USER.md`** — Personal/professional context
 3. **Read `users/jeff/memory/daily/YYYY-MM-DD.md`** — Recent context
@@ -204,4 +204,4 @@ This architecture enables OpenClaw to maintain **multiple relationships** while 
 **Report Generated:** 2026-02-22 01:58 UTC  
 **System:** OpenClaw 2026.2.19-2  
 **Memory Architecture:** v2.0 (Partitioned)  
-**Primary User:** Jeff Davies (U0ACWLADFEK)
+**Primary User:** [USER_NAME] ([USER_ID])

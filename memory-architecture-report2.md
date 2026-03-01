@@ -30,7 +30,7 @@ workspace/
 │   └── logs/                 # Compression activity logs
 │
 ├── users/                    # User-specific memory partitions
-│   ├── jeff/                # Jeff Davies (primary user)
+│   ├── jeff/                # [USER_NAME] (primary user)
 │   │   ├── identity/        # USER.md, personal details
 │   │   ├── memory/          # MEMORY.md (core framework)
 │   │   ├── projects/        # webbOS, ClawChat, etc.
@@ -149,7 +149,7 @@ CREATE INDEX idx_compression ON memories(compression_status);
 
 ## Context-Aware Loading Protocol v3.0
 
-### For Jeff (U0ACWLADFEK):
+### For Jeff ([USER_ID]):
 1. **Read `SOUL.md`** — Assistant identity (Richard De Clawbeaux)
 2. **Load critical memories** from SQLite (importance 5 only)
 3. **Read `users/jeff/identity/USER.md`** — Personal/professional context
@@ -380,7 +380,7 @@ This architecture enables OpenClaw to evolve from **reactive memory storage** to
 **Report Generated:** 2026-02-25 00:40 UTC  
 **System:** OpenClaw 2026.2.19-2  
 **Memory Architecture:** v3.0 (SQLite Enhanced)  
-**Primary User:** Jeff Davies (U0ACWLADFEK)  
+**Primary User:** [USER_NAME] ([USER_ID])  
 **Core Principle:** "Forgetting noise enables remembering signal"  
 **Database Location:** `/home/openclaw/.openclaw/workspace/memory/memory.db`  
 **Compression Schedule:** Daily 4:30am UTC  
