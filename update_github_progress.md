@@ -1,6 +1,15 @@
 # Memory System Evolution Update - 2026-02-26
 
+## Support the Project ☕
+
+If you find this system helpful, feel free to buy me a coffee!
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Stripe-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buy.stripe.com/cNi5kDb0Q5Wp663gdgbjW00)
+
+---
+
 ## 🚀 Major Progress: Complete Feedback Loop System Implemented
+
 
 ### **✅ Thinking → Research → Action → Memory → Compression Loop**
 
@@ -194,6 +203,7 @@ The memory system has evolved from **reactive tool** to **autonomous evolution s
 4. **"Social cognition prosthesis"** - Memory augmenting human connection
 
 **Next Checkpoint**: Research cron job execution test at 5am UTC tomorrow, followed by social memory scanning implementation.
+
 
 ---
 *System Status: Autonomous evolution enabled*
